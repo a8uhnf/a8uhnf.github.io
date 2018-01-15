@@ -2,7 +2,7 @@ languageCode = "en-us"
 title = "Abu Hanifa"
 baseurl = "https://a8uhnf.github.io/"
 theme = "prologue"
-publishDir = "docs"
+publishDir = "."
 
 [params]
   name = "Abu Hanifa"

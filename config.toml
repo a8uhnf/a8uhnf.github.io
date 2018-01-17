@@ -15,8 +15,8 @@ disqusShortname = "your_disqus_shortname"
     url = "/about"
 
 [params]
-  GithubID = "your_github"
-  TwitterID = "your_twitter"
+  GithubID = "https://github.com/a8uhnf"
+  TwitterID = "https://twitter.com/a8uhnf"
   LinkedInID = "your_linkedin"
   GoogleplusID = "your_googleplus"
   FacebookID = "https://www.facebook.com/abuhnf"
@@ -28,5 +28,3 @@ disqusShortname = "your_disqus_shortname"
   About = "Hello, I'm Abu Hanifa. A software engineer, family man, sports fan, competitive programmer, technology enthusiasist, occesional travel, kubernetes lover. Alwasys like to learn new things: as language, could be programming or spoken. Enjoy :) ..."
   ProfilePicture = "/profile.jpg"
   SlackURL = "your_slack_invite_url"
-
-

@@ -3,6 +3,7 @@ title = "Abu Hanifa"
 theme = "nix"
 languageCode = "en-us"
 disqusShortname = "your_disqus_shortname"
+publishDir = "."
 
 [menu]
   [[menu.header]]

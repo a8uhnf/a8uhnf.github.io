@@ -1,72 +1,32 @@
-languageCode = "en-us"
-title = "Abu Hanifa"
 baseurl = "https://a8uhnf.github.io/"
-theme = "prologue"
-publishDir = "."
+title = "Abu Hanifa"
+theme = "nix"
+languageCode = "en-us"
+disqusShortname = "your_disqus_shortname"
+
+[menu]
+  [[menu.header]]
+    name = "post"
+    weight = 0
+    url = "/post"
+  [[menu.header]]
+    name = "about"
+    weight = 1
+    url = "/about"
 
 [params]
-  name = "Abu Hanifa"
-  description = "Software Engineer"
-  copyright = "Untitled."
+  GithubID = "your_github"
+  TwitterID = "your_twitter"
+  LinkedInID = "your_linkedin"
+  GoogleplusID = "your_googleplus"
+  FacebookID = "https://www.facebook.com/abuhnf"
+  TelegramID = "your_telegram"
+  Name = "Abu Hanifa"
+  HeaderUsername = "a8uhnf"
+  HeaderHostname = "Abu Hanifa"
+  Email = "a8u.han1fa@gmail.com"
+  About = "Hello, I'm Abu Hanifa. A software engineer, family man, sports fan, competitive programmer, technology enthusiasist, occesional travel, kubernetes lover. Alwasys like to learn new things: as language, could be programming or spoken. Enjoy :) ..."
+  ProfilePicture = "/profile.jpg"
+  SlackURL = "your_slack_invite_url"
 
-[[params.social]]
-  medium = "twitter"
-  icon = "twitter"
-  link = "https://twitter.com/a8uhnf"
 
-[[params.social]]
-  medium = "facebook"
-  icon = "facebook"
-  link = "https://www.facebook.com/abuhnf"
-
-[[params.social]]
-  medium = "github"
-  icon = "github"
-  link = "https://github.com/a8uhnf"
-
-[[params.social]]
-  medium = "email"
-  icon = "envelope"
-  link = "a8u.han1fa@gmail.com"
-
-# Portfolio column one
-
-[[params.portfolio1]]
-  title = "Ipsum Feugiat"
-  alt = ""
-  source = "img/pic02.jpg"
-  url = "#"
-
-[[params.portfolio1]]
-  title = "Rhoncus Semper"
-  alt = ""
-  source = "img/pic03.jpg"
-  url = "#"
-
-# Portfolio column two
-
-[[params.portfolio2]]
-  title = "Magna Nullam"
-  alt = ""
-  source = "img/pic04.jpg"
-  url = "#"
-
-[[params.portfolio2]]
-  title = "Natoque Vitae"
-  alt = ""
-  source = "img/pic05.jpg"
-  url = "#"
-
-# Portfolio column 3
-
-[[params.portfolio3]]
-  title = "Dolor Penatibus"
-  alt = ""
-  source = "img/pic06.jpg"
-  url = "#"
-
-[[params.portfolio3]]
-  title = "Orci Convallis"
-  alt = ""
-  source = "img/pic07.jpg"
-  url = "#"

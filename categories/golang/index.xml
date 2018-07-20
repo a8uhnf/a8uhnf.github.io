@@ -6,7 +6,7 @@
     <description>Recent content in Golang on Abu Hanifa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Jul 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://a8uhnf.github.io/categories/golang/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>RBAC made easy</title>
       <link>https://a8uhnf.github.io/post/rbac/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 20 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>https://a8uhnf.github.io/post/rbac/</guid>
       <description>rbac-tutorial Adding Users The genrsa command generates an RSA private key.
